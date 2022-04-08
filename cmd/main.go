@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	addr := ":8000"
+	addr := ":8080"
 
 	mux := http.NewServeMux()
 
