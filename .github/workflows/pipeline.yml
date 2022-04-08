@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     name: Build App
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
 
     - name: Set up Gp 1.x
